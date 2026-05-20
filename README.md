@@ -1,8 +1,22 @@
 # AWS Cloud Practitioner Hands-On Labs
 
-This repository documents my practical journey learning Amazon Web Services through **21 hands-on labs** while preparing for the **AWS Certified Cloud Practitioner (CLF-C02)** certification.
+This repository contains the **21 hands-on labs** I completed while preparing for the **AWS Certified Cloud Practitioner (CLF-C02)** certification.
 
-The focus is on building a solid foundation in core AWS services, applying security best practices, and understanding how to design simple but functional cloud architectures.
+My goal is to build a solid practical foundation in AWS by working directly with the most important services.
+
+---
+
+## 🛠️ Technologies & Concepts I Worked With
+
+During these labs I practiced and learned the following:
+
+- **IAM** — Users, Groups, Roles, Custom Policies and Least Privilege
+- **EC2** — Instance launching (Linux & Windows), Security Groups, Key Pairs, User Data scripts
+- **Networking** — VPC, Public & Private Subnets, NAT Gateway
+- **Storage** — Amazon S3 (buckets, permissions, versioning, lifecycle rules)
+- **Databases** — Amazon RDS (secure deployment and connectivity)
+- **Observability** — CloudWatch Alarms, Dashboards and Logs
+- **High Availability** — Elastic Load Balancing and Auto Scaling Groups
 
 ---
 
@@ -18,27 +32,6 @@ The focus is on building a solid foundation in core AWS services, applying secur
 
 ---
 
-## 🎯 Learning Goals
-
-- Understand core AWS services and how they work together
-- Apply the **Shared Responsibility Model** and **Principle of Least Privilege**
-- Implement basic secure, scalable, and observable cloud architectures
-- Document technical work in a clear and professional way
-
----
-
-## 🛠️ Technologies Covered
-
-- **IAM** — Users, Groups, Roles, Custom Policies
-- **EC2** — Instances, Security Groups, Key Pairs, User Data
-- **Networking** — VPC, Subnets, NAT Gateway
-- **Storage** — S3 with Versioning and Lifecycle Rules
-- **Databases** — Amazon RDS
-- **Observability** — CloudWatch Alarms, Dashboards, and Logs
-- **High Availability** — Elastic Load Balancing + Auto Scaling
-
----
-
 **Last updated:** [DD/MM/YYYY]  
 
-This repository is actively maintained as I continue my AWS learning path.
+This repository is part of my learning journey in AWS. I update it as I complete new labs.
