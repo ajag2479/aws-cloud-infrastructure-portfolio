@@ -40,11 +40,13 @@ The goal is to build a strong foundation in AWS by implementing core services ha
 
 ---
 
-## 📌 Next Steps
+## 📌 Roadmap
 
-- Complete remaining labs
-- Prepare and pass the **AWS Certified Cloud Practitioner (CLF-C02)** exam
-- Continue with AWS AI Practitioner path (Bedrock, Agents & RAG)
+- Expand observability and monitoring scenarios
+- Add Infrastructure as Code with Terraform
+- Build serverless projects using AWS Lambda
+- Explore AWS AI services (Bedrock, Agents & RAG)
+- Continue developing production-inspired cloud projects
 
 ---
 
