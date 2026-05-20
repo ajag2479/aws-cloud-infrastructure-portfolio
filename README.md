@@ -2,7 +2,7 @@
 
 This repository contains the **21 hands-on labs** I completed while preparing for the **AWS Certified Cloud Practitioner (CLF-C02)** certification.
 
-My goal is to build a solid practical foundation in AWS by working directly with the most important services.
+My goal is to build a solid practical foundation in AWS by working directly with core services, learning fundamental concepts, and documenting my progress step by step.
 
 ---
 
@@ -11,12 +11,12 @@ My goal is to build a solid practical foundation in AWS by working directly with
 During these labs I practiced and learned the following:
 
 - **IAM** — Users, Groups, Roles, Custom Policies and Least Privilege
-- **EC2** — Instance launching (Linux & Windows), Security Groups, Key Pairs, User Data scripts
+- **EC2** — Instances (Linux & Windows), Security Groups, Key Pairs, User Data scripts
 - **Networking** — VPC, Public & Private Subnets, NAT Gateway
 - **Storage** — Amazon S3 (buckets, permissions, versioning, lifecycle rules)
 - **Databases** — Amazon RDS (secure deployment and connectivity)
 - **Observability** — CloudWatch Alarms, Dashboards and Logs
-- **High Availability** — Elastic Load Balancing and Auto Scaling Groups
+- **High Availability** — Elastic Load Balancing + Auto Scaling Groups
 
 ---
 
@@ -32,6 +32,13 @@ During these labs I practiced and learned the following:
 
 ---
 
-**Last updated:** [DD/MM/YYYY]  
+## 🎯 Learning Goals
 
-This repository is part of my learning journey in AWS. I update it as I complete new labs.
+- Understand how core AWS services work together
+- Apply basic security best practices (especially IAM)
+- Learn foundational concepts of networking, storage, databases, and monitoring
+- Practice documenting technical work in a clear way
+
+This repository is part of my learning journey. I update it as I complete new labs and continue progressing toward the CLF-C02 certification.
+
+**Last updated:** [DD/MM/YYYY]
